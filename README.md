@@ -9,9 +9,10 @@ This project is a comprehensive server management dashboard developed using Angu
 
 - Two-Way Binding: For real-time updates.
 - Models and Forms: For structured data handling.
-- Angular Directives: Utilizes ng-content, *ngFor, *ngIf.
+- Angular Directives: Utilizes ng-content, @for, @empty, @if-else.
 - Lifecycle Hooks: For efficient component management.
 - Custom Selectors and Template Variables: For modular and reusable code.
+- Signals: Utilizes modern angular syntax of signals for input/output handling and better user experience.
 The dashboard facilitates seamless server management and support ticket creation through an intuitive form interface.
 
 ## CmpDeepDive
