@@ -1,4 +1,20 @@
-# CmpDeepDive
+
+<img width="1470" alt="ServerMangementDashboard" src="https://github.com/Geni-96/Server_Mangement_Dashboard/assets/122692904/46d2cbb1-cf81-4fc4-9e6c-a53c063a005b">
+
+
+# Description
+## Server Management Dashboard
+
+This project is a comprehensive server management dashboard developed using Angular and TypeScript. It provides real-time server status, traffic monitoring, and support ticket management. Key features include:
+
+- Two-Way Binding: For real-time updates.
+- Models and Forms: For structured data handling.
+- Angular Directives: Utilizes ng-content, *ngFor, *ngIf.
+- Lifecycle Hooks: For efficient component management.
+- Custom Selectors and Template Variables: For modular and reusable code.
+The dashboard facilitates seamless server management and support ticket creation through an intuitive form interface.
+
+## CmpDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
